@@ -39,7 +39,7 @@ public class MainForm extends JFrame {
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
 
-		JLabel lblHelloSwing = new JLabel("Hello World!?");
+		JLabel lblHelloSwing = new JLabel("Hello World!?!?");
 		contentPane.add(lblHelloSwing, BorderLayout.NORTH);
 	}
 
